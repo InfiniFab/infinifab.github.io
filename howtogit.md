@@ -43,7 +43,7 @@ Tout les retours sont les bienvenu, et 1000 merci à ceux qui prenent le temps d
 
 Sur Guthub, nous pouvons utiliser une fonctionnalité qui vous permet simplement de soulever un sujetpour en discuter ensemble, en ce qui concerne le fablab ou bien meme le contenu du site, de la meme maniere qu'on forum.
 
-* Une fois sur le dépot GITHUB de l'Infinifab, allez dans la partie "Issues"
+* Une fois sur le dépot GITHUB de l'Infinifab, allez dans la partie "Issues".
 
 ![](/asset/issues.jpg)
 
