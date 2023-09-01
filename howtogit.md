@@ -32,16 +32,20 @@ C'est précisement cette option que nous utilisons sur ce site. Tout son contenu
 
 ![](/asset/editgit.PNG)
 
-* Avant de soumettre vos suggestions, il vous sera demander une petite précision un petit commentaire pour m'aider à mieux comprendre vos retours. Cliquez sur "Propose changes", j'integrerais par la suite vos changements sur le site.
+* Avant de soumettre vos suggestions, il vous sera demander une petite précision un petit commentaire pour m'aider à mieux comprendre vos retours. Cliquez sur "Propose changes".
 
 ![](/asset/commentchange.PNG){: width="400px"}
+
+* La dernière étape consiste à soumettre les changements, cliquez sur "create pull request". J'integrerais par la suite les changements sur le site.
+
+![](/asset/commit.PNG){: width="800px"}
 
 
 Tout les retours sont les bienvenu, et 1000 merci à ceux qui prenent le temps de faire ces suggestions.
 
 ## Une simple remarque ?
 
-Sur Guthub, nous pouvons utiliser une fonctionnalité qui vous permet simplement de soulever un sujetpour en discuter ensemble, en ce qui concerne le fablab ou bien meme le contenu du site, de la meme maniere qu'on forum.
+Sur Github, nous pouvons utiliser une fonctionnalité qui vous permet simplement de soulever un sujetpour en discuter ensemble, en ce qui concerne le fablab ou bien meme le contenu du site, de la meme maniere qu'on forum.
 
 * Une fois sur le dépot GITHUB de l'Infinifab, allez dans la partie "Issues"
 

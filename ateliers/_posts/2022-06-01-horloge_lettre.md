@@ -1,16 +1,27 @@
 ---
-layout: post
+layout: atelier
 title: "Horloge à lettre"
 permalink: /horloge/
 tag: atelier
 pageurl : https://github.com/InfiniFab/infinifab.github.io/blob/master/ateliers/_posts/2022-06-01-horloge_lettre.md
+image : /asset/horloge_lettre1.jpg
+description: "Une horloge qui affiche l'heure  en lettrage"
+temps : "3h"
+prix: "tbd"
 
 ---
 
 
-horloge
 
-{{ page.categories }}
+Pendant cet atelier, vous monterez un kit pour avoir votre propre horloge à lettre à la fin.
+Le kit est composé : 
+- Un boitier solide pour afficher le  lettrage et contenir tout les elements
+- Des bandes de LED
+- un Arduino
 
-
- [lien]({{ page.pageurl }}){:target="_blank"} 
+Le montage de l'horloge consiste en :
+- Souder les bande de LED sur l'Arduino
+- Programmer l'Arduino
+- Monter le boitier de l'horloge
+- Monter l'ensemble des élements
+- lire l'heure
