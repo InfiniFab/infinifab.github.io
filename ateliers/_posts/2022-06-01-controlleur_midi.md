@@ -12,9 +12,9 @@ prix: "tbd"
 ---
 
 
-Pendant cet atelier, vous monterez un kit pour avoir votre propre controlleur midi.
+Pendant cet atelier, vous monterez un kit pour avoir votre propre contrôleur midi.
 Le kit est composé : 
-- Un boitier solide 
+- Un boîtier solide 
 - Des boutons poussoirs & rotatifs
 - Un PCB
 - un raspberry Pico
@@ -22,5 +22,5 @@ Le kit est composé :
 Le montage de l'horloge consiste en :
 - Souder les boutons et le raspberry sur le PCB 
 - Programmer l'Arduino
-- Monter le boitier 
+- Monter le boîtier 
 - Faire de la musique
