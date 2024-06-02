@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Montserrat';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -29,12 +29,13 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Montserrat', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.2em;
     line-height: 1.3em;
     color: #333;
+    font-family: 'Montserrat';
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -65,6 +66,37 @@ ul.posts li {
     margin: auto;
     display: block;
     height: 250px;
-    width: 250px;
+    width: 550px;
+}
+
+.postdesc{
+    display: inline;
+    margin-right: 20px;
+}
+
+.icon-atelier{
+    margin: auto;
+    height: 30px;
+    width: 30px;
+}
+
+.mini-atelier{
+    margin: auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+}
+
+.titre-min-atelier{
+    font-family: 'Montserrat';
+    font-size: 22px;
+    text-align: center;
 }
   
+
+.navbar{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: 100;
+}
