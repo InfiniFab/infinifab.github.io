@@ -63,59 +63,9 @@ Chaque atelier proposé ci-dessous vous plongera dans l’univers des fablabs. V
   {% endfor %}
 </div> 
 
-<!-- {% for post in site.posts %}
-{% if post.tag == "atelier" %}
-
-| **[{{ post.title }}]({{ post.permalink }})** | ![Icône 1]({{ post.ic }}) ![Icône 2]({{ post.crea }}) ![Icône 3]({{ post.prod }}) |
-|:--------------------------------------------:|:------------------------------------------:|
-| ![Image de l’atelier]({{ post.image }}) |  |
-| **Description :** {{ post.description }} |  |
-
----
-
-{% endif %}
-{% endfor %} -->
 
 
 Autres ateliers à venir prochainement...
-
-
-
-<!-- <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:white;border-style:solid;border-width:1px;font-family:Montserrat, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Montserrat, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-
-<div align="center">
-  {% for post in site.posts %}
-    {% if post.tag == "atelier" %}
-    <div class="div-class">
-    <table class="tg"><thead>
-      <tr>
-        <th class="tg-0pky" colspan="2"><p class="titre-min-atelier">{{post.title }}</p></th>
-        <th class="tg-0pky"><img  class="icon-atelier"  src="{{post.ic}}" /><img  class="icon-atelier"  src="{{post.crea}}" /><img  class="icon-atelier"  src="{{post.prod}}" /></th>
-      </tr></thead>
-    <tbody>
-      <tr>
-        <td class="tg-0pky" colspan="3"><a href="{{post.permalink}}"><img  class="mini-atelier"  src="{{post.image}}" /></a></td>
-      </tr>
-      <tr>
-        <td class="tg-0lax" colspan="3">{{post.description }}</td>
-      </tr>
-    </tbody>
-    </table>
-    </div>
-
-    
-    {% endif %}
-  {% endfor %}
-</div> -->
 
 
 
