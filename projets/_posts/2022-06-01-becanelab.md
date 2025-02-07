@@ -6,12 +6,14 @@ tag: projet
 image : /asset/path302.png
 description : "Le Bécane Lab ! Le fablab mobile de l'InfiniFab"
 pageurl : 
+diff : /asset/icon ateliers/diff3.png
+avc : /asset/icon ateliers/acc1.png
 
 ---
 
 # {{page.title}}
 
-![image tooltip here]({{page.image}})
+![image tooltip here]({{page.image}}){: width="90%"}
 
 ## Le projet
 

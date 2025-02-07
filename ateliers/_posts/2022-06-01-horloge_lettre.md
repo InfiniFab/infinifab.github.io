@@ -1,16 +1,13 @@
 ---
 layout: atelier
-title: "Insert pour boite de jeu de société"
-permalink: /inserts/
+title: "Horloge à lettre"
+permalink: /horloge/
 tag: atelier
-pageurl : https://github.com/InfiniFab/infinifab.github.io/blob/master/ateliers/_posts/2022-06-01-atelier-insert.md
+pageurl : https://github.com/InfiniFab/infinifab.github.io/blob/master/ateliers/_posts/2022-06-01-horloge_lettre.md
 image : /asset/horloge_lettre1.jpg
-description: "fabrication d'insert pour boite de jeu de société avec la découpeuse laser"
+description: "Une horloge qui affiche l'heure  en lettrage"
 temps : "3h"
 prix: "tbd"
-ic : /asset/icon ateliers/2-coll.png
-crea : /asset/icon ateliers/1-crea.png
-prod : /asset/icon ateliers/2-prod.png
 
 ---
 

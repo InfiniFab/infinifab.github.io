@@ -4,27 +4,31 @@ permalink : /accueil/
 pageurl : https://github.com/InfiniFab/infinifab.github.io/blob/master/accueil.md
 ---
 
-L'Infini Fab, c'est la fabrique de l'infini !
+## L'Infini Fab, c'est la fabrique de l'infini !
 
-Ingénieur de formation, baroudeurs des fablabs depuis 10 ans maintenant, Julien, fondateur de l'Infinifab, propose de mettre à disposition ses compétences et son experience pour vous proposer :
+**Ingénieur de formation et explorateur des fablabs depuis une décennie, Julien, fondateur d'Infinifab, met son expertise à votre service pour vous accompagner dans vos projets de fabrication et de prototypage.**  
 
-- La conception et le prototypage de votre projet : Vous êtes entrepreneur ou autre, vous souhaitez donner vie à votre projet, que ce soit de l’ameublement, un object connecté, une enseigne, Infinifab propose ses service de conception pour vous aider à aller de la simple idée jusqu'à la réalisation d'un 1er prototype.
+- **Les [ateliers Infinifab](/ateliers)** :  
+  Participez à un atelier immersif où, le temps d’une demi-journée, vous découvrirez de nouvelles techniques de fabrication à travers la réalisation d’un ou plusieurs objets. Une expérience idéale pour explorer les possibilités offertes par les fablabs.  
 
-- Les [ateliers Infinifab](/ateliers) : Pour vous permettre de faire un 1er pas vers le monde des fablabs, Infinifab vous propose de participer à un atelier où durant une demi-journée vous serez accompagné pour fabriquer un des objets du catalogue 
+- **Conception et prototypage sur mesure** :  
+  Que vous soyez entrepreneur ou créatif, Infinifab vous aide à donner vie à votre projet, qu’il s’agisse de mobilier, d’un objet connecté ou d’une enseigne. De l’idée initiale au premier prototype, nous vous accompagnons à chaque étape du processus.  
+
 
 
 
 ### Un site participatif
 
-J'ai choisi d’héberger ce site sur github ![](/asset/github.png ){:height="10px" width="10px"}, cela vous permet de participer à son élaboration, vous êtes cordialement à me faire vos retours sur : 
-- le texte présent sur le site, les infos proposées, les  fautes d'orthographes
-- les projets et les ateliers proposés
-- le fablab en soit
+J'ai choisi d’héberger ce site sur GitHub ![](/asset/github.png){:height="10px" width="10px"}, ce qui vous permet de contribuer à son amélioration. Vos retours sont les bienvenus sur :  
 
-sur chaque pages vous trouverez un lien pour y mettre vos remarques
+- Le contenu du site : textes, informations proposées, éventuelles fautes d’orthographe  
+- Les projets et ateliers présentés  
+- Le fablab en lui-même  
 
-![](/asset/gitedit.png ){: .logo}
+Sur chaque page, vous trouverez un lien pour partager vos remarques :  
 
-et un petit lien pour rediriger vers la page qui vous explique comment participer
+![](/asset/gitedit.png){: .logo}  
 
-![](/asset/githow.png ){: .logo}
+Ainsi qu’un lien vers une page expliquant comment participer :  
+
+![](/asset/githow.png){: .logo}  

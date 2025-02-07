@@ -4,63 +4,78 @@ permalink : /howtogit/
 pageurl : https://github.com/InfiniFab/infinifab.github.io/blob/master/howtogit.md
 ---
 
-#### Qu'est-ce que GITHUB ?
+## Qu'est-ce que GitHub ?  
 
-GITHUB est une plateforme participative, qui permet la revue d'un code informatique mais aussi d'un texte par plusieurs personne. 
-Le porteur de projet gère alors un dépôt qui peut être revue par des tiers. 
+GitHub est une **plateforme collaborative** permettant de gérer et de réviser du code ou du texte à plusieurs.  
+Un projet est hébergé sous forme de **dépôt**, que son créateur peut modifier tout en recevant des contributions extérieures.  
 
-GITHUB propose de générer des pages web via le contenu présent sur les depots, les **github page**.
-C'est précisément cette option que nous utilisons sur ce site. Tout son contenu est libre et consultable sur le dépôt de l'Infinifab, permettant à tout ceux qui le souhaite de participer à l'élaboration du site et son contenu.
+GitHub offre également la possibilité de générer des pages web à partir des dépôts via **GitHub Pages**.  
+C'est précisément cette fonctionnalité qui est utilisée pour ce site. Tout son contenu est **libre et accessible** sur le dépôt de l'Infinifab, offrant à chacun la possibilité de contribuer à son élaboration.  
 
-#### Comment participer ?
+---
 
-> Attention pour participer il est IMPÉRATIF d'avoir un compte de créé sur GITHUB. 
-> Toutes la instructions sur le site GITHUB sont en Anglais.
+## Comment participer ?  
 
-## Proposer d'éditer le contenu d'une page
+> ⚠️ Pour contribuer, il est **impératif** de posséder un compte GitHub.  
+> Notez que l’interface et les instructions de GitHub sont en anglais.  
 
-* À chaque bas de page, vous trouverez le lien vers github qui vous permettra de faire vos suggestions
+### 🔧 Proposer une modification de contenu  
 
-![](/asset/bas%20de%20page2.png)
+Chaque page du site contient un lien vers GitHub en bas de page, vous permettant de proposer des modifications.  
 
-* Une fois sur la page correspondante vous aurez alors accès au texte qui la compose, choisissez alors d'éditer le texte
-![](/asset/edit git.jpg){: width="900px"}
-* Il vous faudra alors créer un nouveau "fork" du dépôt, cliquez sur "fork this repository"
-![](/asset/fork-git.PNG)
+#### **1. Accéder au texte à modifier**  
+En bas de chaque page, cliquez sur le lien GitHub correspondant.  
 
-* Vous aurez accès alors au texte de la page voulue, faites les changements ou les suggestions que vous estimez nécessaire. Vous pourrez alors choisir de soumettre les changement via le bouton vert "commit changes..."
+![](/asset/bas%20de%20page2.png)  
 
-![](/asset/editgit.PNG)
+Une fois sur GitHub, vous verrez le texte de la page. Cliquez sur **"Edit this file"** pour le modifier.  
 
-* Avant de soumettre vos suggestions, il vous sera demander une petite précision un petit commentaire pour m'aider à mieux comprendre vos retours. Cliquez sur "Propose changes".
+![](/asset/edit%20git.jpg){: width="99%"}  
 
-![](/asset/commentchange.PNG){: width="400px"}
+#### **2. Créer un "fork" du dépôt**  
+Si c'est votre première modification, GitHub vous demandera de créer une copie du dépôt : cliquez sur **"Fork this repository"**.  
 
-* La dernière étape consiste à soumettre les changements, cliquez sur "create pull request". j’intégrerais par la suite les changements sur le site.
+![](/asset/fork-git.PNG){: width="99%"}  
 
-![](/asset/commit.PNG){: width="800px"}
+#### **3. Modifier le texte et soumettre les changements**  
+Une fois votre modification effectuée, cliquez sur le bouton vert **"Commit changes…"**.  
 
+![](/asset/editgit.PNG){: width="99%"}  
 
-Tout les retours sont les bienvenu, et 1000 merci à ceux qui prennent le temps de faire ces suggestions.
+Avant de soumettre votre proposition, ajoutez un petit commentaire expliquant votre modification, puis cliquez sur **"Propose changes"**.  
 
-## Une simple remarque ?
+![](/asset/commentchange.PNG){: width="50%"}  
 
-Sur Github, nous pouvons utiliser une fonctionnalité qui vous permet simplement de soulever un sujet pour en discuter ensemble, en ce qui concerne le fablab ou bien meme le contenu du site, de la meme manière qu'on forum.
+Enfin, pour envoyer vos modifications, cliquez sur **"Create pull request"**.  
+Je pourrai alors examiner votre proposition et l’intégrer au site.  
 
-* Une fois sur le dépôt GITHUB de l'Infinifab, allez dans la partie "Issues"
+![](/asset/commit.PNG){: width="99%"}  
 
-![](/asset/issues.jpg)
+Tous les retours sont les bienvenus ! Un grand merci à ceux qui prennent le temps de contribuer. 😊  
 
-* Là vous  arrivez sur la pages où les différents "Issues" du dépôt. Libre à vous de participer aux "Issue" déjà existante, ou bien d'en créer une nouvelle via le bouton "New issue".
+---
 
-![](/asset/issues-subject.png){: width="500px"}
+## 💬 Juste une remarque ?  
 
+GitHub propose une section **Issues**, qui fonctionne comme un forum. Vous pouvez y **ouvrir une discussion** sur un sujet concernant le fablab ou le contenu du site.  
 
-## La syntaxe kramdown
+#### **1. Accéder aux discussions**  
+Sur le dépôt GitHub d'Infinifab, cliquez sur **"Issues"**.  
 
-Les pages de ce site sont rédigées avec la syntaxe "kramdown", elle permet une mise en page assez simple et des pages un peu moins "chargées" en code. 
-Si vous n’êtes pas familier avec ce code, pas de soucis, vous trouverez beaucoup d'information sur le net pour vous expliquer comment rédiger une page en kramdown.
+![](/asset/issues.jpg){: width="90%"}  
 
-Dans tout les cas, faites vos suggestions, je revois le code et corrige les erreurs qui pourrait se glisser dans les suggestions.
+#### **2. Participer ou créer un sujet**  
+Vous pouvez répondre à une discussion existante ou en créer une nouvelle en cliquant sur **"New issue"**.  
 
-[une petite page d'aide en Anglais](https://aoterodelaroza.github.io/devnotes/kramdown-cheatsheet/){:target="_blank"}
+![](/asset/issues-subject.png){: width="99%"}  
+
+---
+
+## 📝 La syntaxe Kramdown  
+
+Les pages de ce site sont écrites en **Kramdown**, un langage de mise en page simple qui allège le code.  
+Si vous ne connaissez pas Kramdown, pas d’inquiétude ! Vous trouverez de nombreuses ressources en ligne pour vous aider.  
+
+Dans tous les cas, proposez vos modifications et je m'occuperai d'éventuelles corrections.  
+
+🔗 [Guide rapide sur Kramdown (en anglais)](https://aoterodelaroza.github.io/devnotes/kramdown-cheatsheet/){:target="_blank"}  
